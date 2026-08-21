@@ -1,7 +1,7 @@
 {
-  "version": "v114",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v114/CheckNote.exe",
-  "sha256": "5C25E3DA3800EC81F612CF502CACDF010AD83F779B06D222468B59E57FACC14D",
-  "size": 46227675,
-  "notes": "GitHub 자동 업데이트 기능과 글자 없이 크고 굵은 새 포스트잇 추가 아이콘을 적용했습니다."
+  "version": "v115",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v115/CheckNote.exe",
+  "sha256": "4A4B32557FA1E063E5380D2B94AC7A76C36F265D1E6502BD837A1CC78B327FA2",
+  "size": 46233137,
+  "notes": "선택한 체크항목 글자에 하이퍼링크를 넣고 Ctrl+클릭으로 여는 기능을 추가했습니다."
 }
