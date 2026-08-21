@@ -1,7 +1,7 @@
 {
-  "version": "v117",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v117/CheckNote.exe",
-  "sha256": "B67E7F5BF2A6587E817D2AF6816C899AD6B6460384CFD0111B283D7BD6AFCFEF",
-  "size": 46236104,
-  "notes": "창 축소 시 깜빡임을 줄이고 직접 입력한 웹 주소도 파란색 밑줄로 표시하도록 개선했습니다."
+  "version": "v118",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v118/CheckNote.exe",
+  "sha256": "ADB9E4855CD5032DAFCA2C72B297A84B9A98FFBDD9B66576414304C9EF1D163F",
+  "size": 46237386,
+  "notes": "메모가 들어 있는 폴더를 삭제할 때 미완료·완료·휴지통 메모 수를 보여주고 최종 확인하도록 개선했습니다. 폴더만 삭제되며 메모는 기본 폴더로 이동합니다."
 }
