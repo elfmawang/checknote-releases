@@ -1,7 +1,7 @@
 {
-  "version": "v115",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v115/CheckNote.exe",
-  "sha256": "4A4B32557FA1E063E5380D2B94AC7A76C36F265D1E6502BD837A1CC78B327FA2",
-  "size": 46233137,
-  "notes": "선택한 체크항목 글자에 하이퍼링크를 넣고 Ctrl+클릭으로 여는 기능을 추가했습니다."
+  "version": "v116",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v116/CheckNote.exe",
+  "sha256": "A1AE1993E5D4F01DF824C2DCCBEAD6E57F892DAFBC706174769F3332EDA179F5",
+  "size": 46233447,
+  "notes": "저장한 하이퍼링크와 본문에 직접 입력한 웹 주소를 일반 클릭으로 열 수 있도록 개선했습니다."
 }
