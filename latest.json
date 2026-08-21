@@ -1,7 +1,7 @@
 {
-  "version": "v116",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v116/CheckNote.exe",
-  "sha256": "A1AE1993E5D4F01DF824C2DCCBEAD6E57F892DAFBC706174769F3332EDA179F5",
-  "size": 46233447,
-  "notes": "저장한 하이퍼링크와 본문에 직접 입력한 웹 주소를 일반 클릭으로 열 수 있도록 개선했습니다."
+  "version": "v117",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v117/CheckNote.exe",
+  "sha256": "B67E7F5BF2A6587E817D2AF6816C899AD6B6460384CFD0111B283D7BD6AFCFEF",
+  "size": 46236104,
+  "notes": "창 축소 시 깜빡임을 줄이고 직접 입력한 웹 주소도 파란색 밑줄로 표시하도록 개선했습니다."
 }
