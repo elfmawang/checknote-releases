@@ -1,7 +1,7 @@
 {
-  "version": "v118",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v118/CheckNote.exe",
-  "sha256": "ADB9E4855CD5032DAFCA2C72B297A84B9A98FFBDD9B66576414304C9EF1D163F",
-  "size": 46237386,
-  "notes": "메모가 들어 있는 폴더를 삭제할 때 미완료·완료·휴지통 메모 수를 보여주고 최종 확인하도록 개선했습니다. 폴더만 삭제되며 메모는 기본 폴더로 이동합니다."
+  "version": "v119",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v119/CheckNote.exe",
+  "sha256": "19EDBF40E7DEB474978B1053593CEFAC581385E3F4F89808E0EF4C3DFFE1F665",
+  "size": 46238032,
+  "notes": "색상 변경 버튼 아래의 둥근 호 모양 테두리를 제거하고 A와 색상 밑줄만 보이도록 정리했습니다."
 }
