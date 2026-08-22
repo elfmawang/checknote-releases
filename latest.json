@@ -1,7 +1,7 @@
 {
-  "version": "v119",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v119/CheckNote.exe",
-  "sha256": "19EDBF40E7DEB474978B1053593CEFAC581385E3F4F89808E0EF4C3DFFE1F665",
-  "size": 46238032,
-  "notes": "색상 변경 버튼 아래의 둥근 호 모양 테두리를 제거하고 A와 색상 밑줄만 보이도록 정리했습니다."
+  "version": "v120",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v120/CheckNote.exe",
+  "sha256": "70AB5DD492DB50C5A0765A54DB5BB92DFF7A1E6E141D76B9C53566A7CE751C99",
+  "size": 46237335,
+  "notes": "실행 파일을 CheckNote.exe 하나로 통일하고, 프로그램 시작 중 잠깐 나타나던 작은 아이콘 창을 제거했습니다."
 }
