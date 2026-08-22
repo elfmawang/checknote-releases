@@ -1,7 +1,7 @@
 {
-  "version": "v120",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v120/CheckNote.exe",
-  "sha256": "70AB5DD492DB50C5A0765A54DB5BB92DFF7A1E6E141D76B9C53566A7CE751C99",
-  "size": 46237335,
-  "notes": "실행 파일을 CheckNote.exe 하나로 통일하고, 프로그램 시작 중 잠깐 나타나던 작은 아이콘 창을 제거했습니다."
+  "version": "1.0.0",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.0/CheckNote.exe",
+  "sha256": "361AF268E57F819F9785B871D75B6E41879F51050708144C3FE2764687084DD8",
+  "size": 46259183,
+  "notes": "포스트잇 사이의 체크항목 연결·연결 해제, 폴더 간 연결 안내와 취소 동작, 메모별 되돌리기·다시 실행 기능을 추가했습니다."
 }
