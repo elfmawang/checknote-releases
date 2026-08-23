@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.4/CheckNote.exe",
-  "sha256": "685433F6DF982A3B91797CE3E57AE45EB7ADCDE10B25727CD1B1ED5EA6DD0F65",
-  "size": 46269510,
-  "notes": "포스트잇을 드래그한 위치의 순서로 저장하고 뒤의 메모를 자동으로 밀어냅니다. 현재 화면에서 더 많은 메모 내용을 볼 수 있도록 세로·가로 공간을 함께 계산해 정렬합니다. 소속 폴더명은 하단 폴더 선택 아이콘 옆에 표시하며, 최대화 화면의 모서리와 창 버튼 동작을 다듬었습니다."
+  "version": "1.0.5",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.5/CheckNote.exe",
+  "sha256": "2E3EFF8C57872092D0D3E1BDDAB7C193ACA3FA0F603E0D544CDADB32EE7F800D",
+  "size": 46269648,
+  "notes": "포스트잇 순서를 바꾸면 주변 메모가 약 0.26초 동안 새 자리로 부드럽게 이동합니다. 일반 창과 최대화 창의 외곽 모서리를 모두 직각으로 통일했으며, 투명도 조절 중에도 네모난 창 외곽을 유지합니다."
 }
