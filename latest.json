@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.2/CheckNote.exe",
-  "sha256": "4ED1FE43EB74B96F6C891A97170DF8BEF077933C3C8D809A8167F68AE50C721B",
-  "size": 46263136,
-  "notes": "전체 메모를 구분선 없는 연속 배치로 정리하고 제목 옆에 폴더명을 표시했습니다. 최대화 시 작업 영역을 정확히 채우며 닫기 버튼 영역은 그대로 유지합니다. 연결된 체크 항목은 맞물린 플러그 아이콘과 그룹별 색상으로 구분됩니다."
+  "version": "1.0.3",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.3/CheckNote.exe",
+  "sha256": "BEBF67C9B025B3479DEB3ABEEFF467C2BF81394F778CF3502C91EFAF14D0B115",
+  "size": 46264091,
+  "notes": "기본 화면에서 모든 폴더의 포스트잇을 함께 보여주고 제목 옆에 소속 폴더명을 표시합니다. 최대화·최소화 버튼의 네이티브 클릭 처리를 보강했으며, 최대화 상태에서 네 모서리까지 완전히 채웁니다."
 }
