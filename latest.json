@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.9/CheckNote.exe",
-  "sha256": "B362AF6F0BFD6C1F6B790914CD92DF5A2DC310C278D86448EA3E41B205F4CFFA",
-  "size": 46271599,
-  "notes": "체크항목의 연결 아이콘과 삭제 표시를 고정된 오른쪽 버튼 칸에 배치해 메모판에서 엉뚱한 위치에 그려지던 문제를 수정했습니다. 두 버튼은 마우스를 올리거나 항목을 편집할 때만 표시됩니다."
+  "version": "1.0.10",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.10/CheckNote.exe",
+  "sha256": "E9E85D58B1D0C242CACDB023CDE8C094171301CDAA1737B3E72BAE4AA64217E5",
+  "size": 46273607,
+  "notes": "연결된 체크항목은 연결 아이콘을 항상 표시하며, 마우스를 올리면 연결된 폴더명과 메모 제목을 보여줍니다. 포스트잇을 휴지통으로 보내면 해당 체크항목 연결이 자동으로 해제됩니다."
 }
