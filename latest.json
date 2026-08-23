@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.12/CheckNote.exe",
-  "sha256": "7447A4579DF333FEF33AEE4DB8A94D3D0849B7D4DAB6294A871F3D90266E05E9",
-  "size": 46275551,
-  "notes": "연결 위치 툴팁을 아이콘 위쪽에 표시합니다. 화면 상단 공간이 부족한 경우에는 마우스 아래가 아닌 아이콘 옆쪽에 표시합니다."
+  "version": "1.0.13",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.13/CheckNote.exe",
+  "sha256": "2B686A6DE4D0DE0699927BBE9586DF25459CA4498A5FD82A610E2057B22D1B35",
+  "size": 46277444,
+  "notes": "업데이트 확인의 이전 manifest 캐시 문제를 수정했습니다. 전체창 최소 크기를 320×250으로 정하고, 상단 이름 제거와 완료 검색 체크 토글 및 우측 버튼 재배치를 적용했습니다."
 }
