@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.8/CheckNote.exe",
-  "sha256": "F4E7D64DCBF7D1B209321EDFC315F31FDADA2D747C74E7B0431D91595F7A14DD",
-  "size": 46271854,
-  "notes": "연결 아이콘 두 개를 차례로 클릭할 때 메모판의 선행 클릭 처리로 연결이 취소되던 문제를 수정했습니다. 체크항목의 연결 및 삭제 아이콘은 마우스를 올리거나 해당 항목을 편집할 때만 표시됩니다."
+  "version": "1.0.9",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.9/CheckNote.exe",
+  "sha256": "B362AF6F0BFD6C1F6B790914CD92DF5A2DC310C278D86448EA3E41B205F4CFFA",
+  "size": 46271599,
+  "notes": "체크항목의 연결 아이콘과 삭제 표시를 고정된 오른쪽 버튼 칸에 배치해 메모판에서 엉뚱한 위치에 그려지던 문제를 수정했습니다. 두 버튼은 마우스를 올리거나 항목을 편집할 때만 표시됩니다."
 }
