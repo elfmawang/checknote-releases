@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.5/CheckNote.exe",
-  "sha256": "2E3EFF8C57872092D0D3E1BDDAB7C193ACA3FA0F603E0D544CDADB32EE7F800D",
-  "size": 46269648,
-  "notes": "포스트잇 순서를 바꾸면 주변 메모가 약 0.26초 동안 새 자리로 부드럽게 이동합니다. 일반 창과 최대화 창의 외곽 모서리를 모두 직각으로 통일했으며, 투명도 조절 중에도 네모난 창 외곽을 유지합니다."
+  "version": "1.0.6",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.6/CheckNote.exe",
+  "sha256": "7F1FDCFC7E09E700D7C2DC65C0C77654E4967EF6F308D10697EB03679C866483",
+  "size": 46269856,
+  "notes": "첫 연결 아이콘을 누른 뒤 대상 체크항목의 글자나 연결 아이콘을 눌러 연결할 수 있습니다. 연결 및 해제 변경을 Drive 입력 세션으로 보호하며, 포스트잇 하단 폴더명을 아이콘에 더 가깝고 크게 표시합니다."
 }
