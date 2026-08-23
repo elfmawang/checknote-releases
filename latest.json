@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.13/CheckNote.exe",
-  "sha256": "2B686A6DE4D0DE0699927BBE9586DF25459CA4498A5FD82A610E2057B22D1B35",
-  "size": 46277444,
-  "notes": "업데이트 확인의 이전 manifest 캐시 문제를 수정했습니다. 전체창 최소 크기를 320×250으로 정하고, 상단 이름 제거와 완료 검색 체크 토글 및 우측 버튼 재배치를 적용했습니다."
+  "version": "1.0.14",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.14/CheckNote.exe",
+  "sha256": "DE79267B63F1F615AE27B8E83FC8EE1E95911DE34F62F949110CDFCD01FFA13F",
+  "size": 46276292,
+  "notes": "최대화 및 리사이즈 시 상단 도구 위치를 고정했습니다. 로고는 왼쪽, 완료 검색 토글과 검색창은 가운데, 기능 및 창 제어 버튼은 오른쪽에 유지됩니다."
 }
