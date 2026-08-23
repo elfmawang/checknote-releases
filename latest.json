@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.3/CheckNote.exe",
-  "sha256": "BEBF67C9B025B3479DEB3ABEEFF467C2BF81394F778CF3502C91EFAF14D0B115",
-  "size": 46264091,
-  "notes": "기본 화면에서 모든 폴더의 포스트잇을 함께 보여주고 제목 옆에 소속 폴더명을 표시합니다. 최대화·최소화 버튼의 네이티브 클릭 처리를 보강했으며, 최대화 상태에서 네 모서리까지 완전히 채웁니다."
+  "version": "1.0.4",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.4/CheckNote.exe",
+  "sha256": "685433F6DF982A3B91797CE3E57AE45EB7ADCDE10B25727CD1B1ED5EA6DD0F65",
+  "size": 46269510,
+  "notes": "포스트잇을 드래그한 위치의 순서로 저장하고 뒤의 메모를 자동으로 밀어냅니다. 현재 화면에서 더 많은 메모 내용을 볼 수 있도록 세로·가로 공간을 함께 계산해 정렬합니다. 소속 폴더명은 하단 폴더 선택 아이콘 옆에 표시하며, 최대화 화면의 모서리와 창 버튼 동작을 다듬었습니다."
 }
