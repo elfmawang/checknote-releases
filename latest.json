@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.14/CheckNote.exe",
-  "sha256": "DE79267B63F1F615AE27B8E83FC8EE1E95911DE34F62F949110CDFCD01FFA13F",
-  "size": 46276292,
-  "notes": "최대화 및 리사이즈 시 상단 도구 위치를 고정했습니다. 로고는 왼쪽, 완료 검색 토글과 검색창은 가운데, 기능 및 창 제어 버튼은 오른쪽에 유지됩니다."
+  "version": "1.0.15",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.15/CheckNote.exe",
+  "sha256": "B054F3B7993D19A745A39D66302FA4A5BF15090B6D81DA5E064EFB721F3108F2",
+  "size": 46277617,
+  "notes": "최대화 버튼은 일반 버튼 모션을 유지하고, Windows 스냅은 창을 화면 가장자리로 끌 때만 동작합니다. 보관 아이콘 옆 폴더명도 좁은 포스트잇에서 실제 글자로 표시됩니다."
 }
