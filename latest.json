@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.11/CheckNote.exe",
-  "sha256": "01D30F23F13D9888544AAFACB00CF2ADEBB7E8BC3B2042E1E4E3416FEFAFFFC1",
-  "size": 46275104,
-  "notes": "연결 위치 안내를 시스템 툴팁 대신 흰 배경과 검은 글자로 고정된 전용 팝업으로 표시합니다. Windows 테마와 관계없이 동일한 색상으로 보입니다."
+  "version": "1.0.12",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.12/CheckNote.exe",
+  "sha256": "7447A4579DF333FEF33AEE4DB8A94D3D0849B7D4DAB6294A871F3D90266E05E9",
+  "size": 46275551,
+  "notes": "연결 위치 툴팁을 아이콘 위쪽에 표시합니다. 화면 상단 공간이 부족한 경우에는 마우스 아래가 아닌 아이콘 옆쪽에 표시합니다."
 }
