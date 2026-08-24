@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.19/CheckNote.exe",
-  "sha256": "20AA04C6DB4AAC7736DCCE19D3F1A71782949334284AE6FE67029878A5375009",
-  "size": 46292230,
-  "notes": "Windows 10에서도 트레이 아이콘 등록을 유지합니다. 본창 닫기는 트레이 숨김으로 동작하며, 트레이 종료 또는 업데이트 때 독립 메모를 자동 저장하고 완전히 종료합니다."
+  "version": "1.0.20",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.20/CheckNote.exe",
+  "sha256": "9954A66D480AF7DA5D32112A36C623134A16BEA6D543E15E296B52AF28CF4809",
+  "size": 46292941,
+  "notes": "메인 창을 닫아 트레이로 숨겨도 바탕화면 모드 메모는 독립 창과 위치를 그대로 유지합니다. 실제 종료와 업데이트에서만 독립 메모를 저장하고 종료합니다."
 }
