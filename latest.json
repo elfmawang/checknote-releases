@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.21/CheckNote.exe",
-  "sha256": "C3A5F549FE69761D5C9429958B895B33D6B94807A637427298E0012648E191AB",
-  "size": 46295295,
-  "notes": "작업 표시줄의 모든 창 닫기를 사용해도 독립 메모의 바탕화면 모드와 위치를 유지합니다. 바탕화면 모드 메모마다 독립적인 항상 위 토글을 추가하고 상태를 저장합니다."
+  "version": "1.0.22",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.22/CheckNote.exe",
+  "sha256": "CCEA21761D5F55897FFE00EC75AA24A9BE42E9CF1B16CC6CBF7EF215CB305487",
+  "size": 46295404,
+  "notes": "체크박스 입력창이 활성화되었다면 Enter 여부와 관계없이 실제 한 줄로 저장합니다. 접기 직전에 작성 중인 내용과 들여쓰기를 즉시 확정해 마지막 입력이 사라지는 문제를 수정했습니다."
 }
