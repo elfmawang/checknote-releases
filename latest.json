@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.18/CheckNote.exe",
-  "sha256": "CA9DC5B063F8A88F402840FF4A6A44D99186A934DE793F74096B45DA138347FE",
-  "size": 46292028,
-  "notes": "포스트잇을 일반 메모로 전환하고 줄 맨 앞에 []를 입력해 필요한 줄만 체크박스로 바꿀 수 있습니다. 바탕화면 모드의 마지막 위치와 크기를 기억하며, 알림 영역 아이콘을 더블클릭하면 전체 메모판을 다시 엽니다."
+  "version": "1.0.19",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.19/CheckNote.exe",
+  "sha256": "20AA04C6DB4AAC7736DCCE19D3F1A71782949334284AE6FE67029878A5375009",
+  "size": 46292230,
+  "notes": "Windows 10에서도 트레이 아이콘 등록을 유지합니다. 본창 닫기는 트레이 숨김으로 동작하며, 트레이 종료 또는 업데이트 때 독립 메모를 자동 저장하고 완전히 종료합니다."
 }
