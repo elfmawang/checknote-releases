@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.15/CheckNote.exe",
-  "sha256": "B054F3B7993D19A745A39D66302FA4A5BF15090B6D81DA5E064EFB721F3108F2",
-  "size": 46277617,
-  "notes": "최대화 버튼은 일반 버튼 모션을 유지하고, Windows 스냅은 창을 화면 가장자리로 끌 때만 동작합니다. 보관 아이콘 옆 폴더명도 좁은 포스트잇에서 실제 글자로 표시됩니다."
+  "version": "1.0.16",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.16/CheckNote.exe",
+  "sha256": "D2591B9E41A9E6005FE84F19BEA51E0984084BDDE942EE4990DEA5C9325128DC",
+  "size": 46277695,
+  "notes": "기본 전체 메모 화면에서도 자유 배치를 유지합니다. 창 리사이즈·포스트잇 접기·크기 변경 후 기존 위치가 자동정렬로 바뀌지 않습니다."
 }
