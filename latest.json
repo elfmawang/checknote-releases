@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.16/CheckNote.exe",
-  "sha256": "D2591B9E41A9E6005FE84F19BEA51E0984084BDDE942EE4990DEA5C9325128DC",
-  "size": 46277695,
-  "notes": "기본 전체 메모 화면에서도 자유 배치를 유지합니다. 창 리사이즈·포스트잇 접기·크기 변경 후 기존 위치가 자동정렬로 바뀌지 않습니다."
+  "version": "1.0.17",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.17/CheckNote.exe",
+  "sha256": "78F8E198976B777809CF6728FFF2851EC88EBFCA09A00310BF073B5ACCCA06D4",
+  "size": 46285439,
+  "notes": "원하는 포스트잇만 독립된 바탕화면 창으로 분리할 수 있습니다. 여러 장을 동시에 띄울 수 있고, 전체 메모판을 닫아도 독립 메모와 동기화가 계속되며 아이콘을 다시 누르면 메모판으로 돌아옵니다."
 }
