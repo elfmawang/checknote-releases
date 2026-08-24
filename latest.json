@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.17/CheckNote.exe",
-  "sha256": "78F8E198976B777809CF6728FFF2851EC88EBFCA09A00310BF073B5ACCCA06D4",
-  "size": 46285439,
-  "notes": "원하는 포스트잇만 독립된 바탕화면 창으로 분리할 수 있습니다. 여러 장을 동시에 띄울 수 있고, 전체 메모판을 닫아도 독립 메모와 동기화가 계속되며 아이콘을 다시 누르면 메모판으로 돌아옵니다."
+  "version": "1.0.18",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.18/CheckNote.exe",
+  "sha256": "CA9DC5B063F8A88F402840FF4A6A44D99186A934DE793F74096B45DA138347FE",
+  "size": 46292028,
+  "notes": "포스트잇을 일반 메모로 전환하고 줄 맨 앞에 []를 입력해 필요한 줄만 체크박스로 바꿀 수 있습니다. 바탕화면 모드의 마지막 위치와 크기를 기억하며, 알림 영역 아이콘을 더블클릭하면 전체 메모판을 다시 엽니다."
 }
