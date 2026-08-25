@@ -1,7 +1,7 @@
 {
-  "version": "1.0.29",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.29/CheckNote.exe",
-  "sha256": "8E340AE312FBAB1CF83E34E8D569F6BD9D3C620A4BC072E0A0D58A617FE387FB",
-  "size": 46299103,
-  "notes": "저장할 때마다 전체 데이터 파일을 다시 읽고 복사하던 병목을 줄여 체크리스트 입력 반응과 여러 포스트잇의 애니메이션 독립성을 개선했습니다. 원자적 저장, 손상된 원본 보호, 백업 복구 기능은 그대로 유지됩니다."
+  "version": "1.0.30",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.30/CheckNote.exe",
+  "sha256": "69CB0BD33330BC503067785F9B208264A99666B49970970999ECD48B19E79397",
+  "size": 46301345,
+  "notes": "연속 입력 중 저장 작업이 끼어들지 않도록 개선하고 Enter의 중복 저장과 Drive 해시 계산을 입력 프레임에서 분리했습니다. 일반 체크항목 삭제는 다른 포스트잇을 다시 그리지 않으며 연결된 항목만 실제 연결 상대 메모를 갱신합니다."
 }
