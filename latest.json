@@ -1,7 +1,7 @@
 {
-  "version": "1.0.27",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.27/CheckNote.exe",
-  "sha256": "E6E20211D000DCB84E2FF85909380885B9CFC7372A7017E3A1D155B13E4C41ED",
-  "size": 46297505,
-  "notes": "제목에서 Enter를 누르지 않고 외부를 클릭해도 한글 입력 순서가 유지됩니다. 빈 줄에서 Enter와 Backspace를 빠르게 반복해도 제목과 초점이 보존되며, 전체 목록을 다시 그리지 않아 모션 깨짐과 깜빡임을 줄였습니다."
+  "version": "1.0.28",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.28/CheckNote.exe",
+  "sha256": "C8938D6F5E6BBEAEA5E764399655F56F1C2003C7AAB48AF21D21711FF20ECD54",
+  "size": 46298254,
+  "notes": "체크항목 한 줄을 삽입하거나 삭제할 때 포스트잇 본문 전체의 페인팅을 껐다 켜지 않고 변경 영역만 다시 그리도록 개선했습니다. Enter와 Backspace를 빠르게 반복해도 화면 모션, 활성 편집기, 커서가 안정적으로 유지됩니다."
 }
