@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.22/CheckNote.exe",
-  "sha256": "CCEA21761D5F55897FFE00EC75AA24A9BE42E9CF1B16CC6CBF7EF215CB305487",
-  "size": 46295404,
-  "notes": "체크박스 입력창이 활성화되었다면 Enter 여부와 관계없이 실제 한 줄로 저장합니다. 접기 직전에 작성 중인 내용과 들여쓰기를 즉시 확정해 마지막 입력이 사라지는 문제를 수정했습니다."
+  "version": "1.0.23",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.23/CheckNote.exe",
+  "sha256": "53C468F72E8A7B32639FB36F5A59254A3D1D6B34EE7A74A23EFC1FD7FDDF9829",
+  "size": 46295069,
+  "notes": "임시 입력행을 제거했습니다. Enter로 생성되는 빈 줄도 즉시 실제 체크항목이 되어 이동, 체크, 삭제, 들여쓰기할 수 있으며 빈 행의 높이와 드래그 판정도 안정화했습니다."
 }
