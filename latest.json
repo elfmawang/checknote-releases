@@ -1,7 +1,7 @@
 {
-  "version": "1.0.26",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.26/CheckNote.exe",
-  "sha256": "AC7A743599D6304A6CE78F64C8AAFB606598977DE9D82D64305DC2BF10BE528C",
-  "size": 46297542,
-  "notes": "첫 체크항목을 삭제하거나 위쪽으로 이동해도 제목 편집기로 커서가 넘어가지 않도록 수정했습니다. 첫 항목 삭제 시 다음 본문 줄로 커서가 이어지고, 유일한 항목을 지운 경우에도 제목으로 자동 이동하지 않습니다."
+  "version": "1.0.27",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.27/CheckNote.exe",
+  "sha256": "E6E20211D000DCB84E2FF85909380885B9CFC7372A7017E3A1D155B13E4C41ED",
+  "size": 46297505,
+  "notes": "제목에서 Enter를 누르지 않고 외부를 클릭해도 한글 입력 순서가 유지됩니다. 빈 줄에서 Enter와 Backspace를 빠르게 반복해도 제목과 초점이 보존되며, 전체 목록을 다시 그리지 않아 모션 깨짐과 깜빡임을 줄였습니다."
 }
