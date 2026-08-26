@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.30/CheckNote.exe",
-  "sha256": "69CB0BD33330BC503067785F9B208264A99666B49970970999ECD48B19E79397",
-  "size": 46301345,
-  "notes": "연속 입력 중 저장 작업이 끼어들지 않도록 개선하고 Enter의 중복 저장과 Drive 해시 계산을 입력 프레임에서 분리했습니다. 일반 체크항목 삭제는 다른 포스트잇을 다시 그리지 않으며 연결된 항목만 실제 연결 상대 메모를 갱신합니다."
+  "version": "1.0.31",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.31/CheckNote.exe",
+  "sha256": "F75A2A295C1BCE47547EB67EE1F58B4885CEE34A2BCD28CF6538ED6604154630",
+  "size": 50412543,
+  "notes": "체크항목 삭제 시 완료된 하위 항목이 앞의 미완료 항목으로 잘못 편입되어 자동 완료되는 문제를 수정했습니다. 부모 항목을 삭제하면 하위 계층은 한 단계 승격되며 기존의 상대 계층과 완료 상태를 유지합니다."
 }
