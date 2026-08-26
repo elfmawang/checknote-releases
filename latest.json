@@ -1,7 +1,7 @@
 {
-  "version": "1.0.31",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.31/CheckNote.exe",
-  "sha256": "F75A2A295C1BCE47547EB67EE1F58B4885CEE34A2BCD28CF6538ED6604154630",
-  "size": 50412543,
-  "notes": "체크항목 삭제 시 완료된 하위 항목이 앞의 미완료 항목으로 잘못 편입되어 자동 완료되는 문제를 수정했습니다. 부모 항목을 삭제하면 하위 계층은 한 단계 승격되며 기존의 상대 계층과 완료 상태를 유지합니다."
+  "version": "1.0.32",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.32/CheckNote.exe",
+  "sha256": "D8444A45292B761EE6C139A6B309C37AF704F8F45195F97912E29C288CD30608",
+  "size": 50413753,
+  "notes": "글자를 지운 직후 Backspace로 앞의 빈 체크박스와 병합하면 저장 데이터에 이전 글자가 남던 문제를 수정했습니다. 이모지·확장 한자가 포함된 줄에서도 Enter 분할, Delete 병합, 화살표 이동과 선택 서식 범위가 정확히 동작합니다."
 }
