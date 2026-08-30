@@ -1,7 +1,7 @@
 {
-  "version": "1.0.39",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.39/CheckNote.exe",
-  "sha256": "8DC2E8952CAC9DF53E7E61EE133E72D57C8A1AE4BBFAFD16BFBDE2945DCDF0BF",
-  "size": 50424059,
-  "notes": "제목에서 Enter를 누르면 본문 체크박스로 정확히 이동하고 입력 커서가 정상적으로 깜빡이도록 수정했습니다. 새 포스트잇의 기본 높이가 남은 세로 공간에 들어가지 않으면 다음 열에 생성되도록 배치를 개선했습니다."
+  "version": "1.0.40",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.40/CheckNote.exe",
+  "sha256": "23CD32CBED504CC6E08E31740426E688004B4A35F5553171A7FEE3F7531CCCCC",
+  "size": 50424443,
+  "notes": "자유배치에서 메모가 겹치지 않도록 보완했습니다. 드래그를 놓을 때뿐 아니라 프로그램 재실행, 폴더 전환, 전체 메모 보기에서도 먼저 배치된 메모는 유지하고 겹치는 메모만 가장 가까운 빈자리로 이동합니다."
 }
