@@ -1,7 +1,7 @@
 {
-  "version": "1.0.35",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.35/CheckNote.exe",
-  "sha256": "FD688D97D9C9C7144A4272A38079C0D786E0DC94DFF363B74F25C44FA8D114B4",
-  "size": 50416127,
-  "notes": "제목에서 Enter를 누를 때 제목 커서가 첫 칸으로 이동하던 문제를 수정했습니다. 제목을 저장한 뒤 본문의 마지막 미완료 항목이나 새 입력행으로 포커스를 즉시 옮깁니다."
+  "version": "1.0.36",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.36/CheckNote.exe",
+  "sha256": "3EDFAF1F3D254A39769DBD1817D8E2C93D236B100BED954E41320D44A9F7F4E2",
+  "size": 50416123,
+  "notes": "실제 메모판의 그래픽 프록시 환경에서 제목 Enter 후 본문 포커스가 사라지던 문제를 수정했습니다. 프록시에 장면 포커스를 먼저 부여하고 키 이벤트가 끝난 뒤 본문 편집기 포커스를 다시 확정합니다."
 }
