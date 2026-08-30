@@ -1,7 +1,7 @@
 {
-  "version": "1.0.34",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.34/CheckNote.exe",
-  "sha256": "81A9A095B106F33ED1EE4258E7341992D0127A7222B55220CDC1800AE596F454",
-  "size": 50414948,
-  "notes": "한글 입력 중 제목에서 Enter가 입력기에 먼저 처리되는 경우에도 본문으로 이동합니다. 본문에 완료 항목만 남아 있을 때도 새 입력행을 만들고, 일반 Enter 중복으로 빈 줄이 두 개 생기지 않도록 했습니다."
+  "version": "1.0.35",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.35/CheckNote.exe",
+  "sha256": "FD688D97D9C9C7144A4272A38079C0D786E0DC94DFF363B74F25C44FA8D114B4",
+  "size": 50416127,
+  "notes": "제목에서 Enter를 누를 때 제목 커서가 첫 칸으로 이동하던 문제를 수정했습니다. 제목을 저장한 뒤 본문의 마지막 미완료 항목이나 새 입력행으로 포커스를 즉시 옮깁니다."
 }
