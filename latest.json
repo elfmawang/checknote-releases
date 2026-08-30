@@ -1,7 +1,7 @@
 {
-  "version": "1.0.36",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.36/CheckNote.exe",
-  "sha256": "3EDFAF1F3D254A39769DBD1817D8E2C93D236B100BED954E41320D44A9F7F4E2",
-  "size": 50416123,
-  "notes": "실제 메모판의 그래픽 프록시 환경에서 제목 Enter 후 본문 포커스가 사라지던 문제를 수정했습니다. 프록시에 장면 포커스를 먼저 부여하고 키 이벤트가 끝난 뒤 본문 편집기 포커스를 다시 확정합니다."
+  "version": "1.0.37",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.37/CheckNote.exe",
+  "sha256": "FC5A4685281725DD3A18807A1F7932E99E5EAAA3F77625334DFC96CD9A44180D",
+  "size": 50418007,
+  "notes": "Windows 한글 입력기가 제목의 Enter 키 이벤트를 Qt보다 먼저 처리하는 경우에도 본문으로 이동하도록 네이티브 키 해제 신호를 보완했습니다. 일반 Enter와 중복되지 않으며 메모판 프록시 안에서도 본문 포커스를 유지합니다."
 }
