@@ -1,7 +1,7 @@
 {
-  "version": "1.0.33",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.33/CheckNote.exe",
-  "sha256": "B1EEF7F1FFA9FF5298FE0FC00A593148E30E10E68339A51086AB599259D90366",
-  "size": 50415357,
-  "notes": "실행 중인 체크노트를 다시 실행하면 새 프로세스 대신 기존 메모판을 표시합니다. 트레이에 숨겨졌거나 최소화된 창도 복원되며, 상단바와 검색·창 제어 버튼 크기를 조금 줄였습니다."
+  "version": "1.0.34",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.34/CheckNote.exe",
+  "sha256": "81A9A095B106F33ED1EE4258E7341992D0127A7222B55220CDC1800AE596F454",
+  "size": 50414948,
+  "notes": "한글 입력 중 제목에서 Enter가 입력기에 먼저 처리되는 경우에도 본문으로 이동합니다. 본문에 완료 항목만 남아 있을 때도 새 입력행을 만들고, 일반 Enter 중복으로 빈 줄이 두 개 생기지 않도록 했습니다."
 }
