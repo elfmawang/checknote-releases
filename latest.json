@@ -1,7 +1,7 @@
 {
-  "version": "1.0.40",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.40/CheckNote.exe",
-  "sha256": "23CD32CBED504CC6E08E31740426E688004B4A35F5553171A7FEE3F7531CCCCC",
-  "size": 50424443,
-  "notes": "자유배치에서 메모가 겹치지 않도록 보완했습니다. 드래그를 놓을 때뿐 아니라 프로그램 재실행, 폴더 전환, 전체 메모 보기에서도 먼저 배치된 메모는 유지하고 겹치는 메모만 가장 가까운 빈자리로 이동합니다."
+  "version": "1.0.41",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.41/CheckNote.exe",
+  "sha256": "555E988D1A683590B71C2DD85C499B64BC96A7A4D0566AE9AB773CCB4F562695",
+  "size": 50424832,
+  "notes": "완료 목록의 항목에서 Enter를 누르면 기존 완료 그룹은 그대로 유지하고 새 줄만 최상위 미완료 항목으로 생성됩니다. 완료된 하위 항목 때문에 상위 항목과 완료 그룹 전체가 미완료 목록으로 이동하던 문제를 수정했습니다."
 }
