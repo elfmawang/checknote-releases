@@ -1,7 +1,7 @@
 {
-  "version": "1.0.42",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.42/CheckNote.exe",
-  "sha256": "781D4D42DF205FD57D888D0570E7E3553B75E768172643539F2BBD742530333E",
-  "size": 50423106,
-  "notes": "Shift+Tab으로 체크항목을 한 단계 상위 목록으로 이동할 수 있습니다. Windows 자동 시작을 왼쪽 상단 설정창의 체크박스에서 켜고 끌 수 있도록 옮겼습니다."
+  "version": "1.0.43",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.43/CheckNote.exe",
+  "sha256": "0C381BE644DFB1D3DC89E5EFF30B739834D6ACB424F88F239DC8421F068C3CD0",
+  "size": 50425897,
+  "notes": "설정창을 네 개의 카드로 나눠 항목과 선택 상태를 쉽게 구분할 수 있도록 정리했습니다. 업데이트 직후 임시 DLL 추출이 비정상 종료되면 한 번 자동으로 다시 실행합니다."
 }
