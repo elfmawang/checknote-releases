@@ -1,7 +1,7 @@
 {
-  "version": "1.0.49",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.49/CheckNote.exe",
-  "sha256": "EE77A2269AD303124805E3896502384ACBE1A24D9ED212FFD2F4F2122963BF8B",
-  "size": 50457068,
-  "notes": "메모판에서 독립 바탕화면 창으로 전환할 때 이전 배율이 우선 적용되던 문제를 수정했습니다. 이제 전환할 때마다 현재 메모판의 배율과 표시 크기를 적용하고, 이전 바탕화면 위치는 유지합니다. 앱 재시작과 트레이 복원 시에는 독립창에서 마지막으로 조절한 배율과 크기를 복원합니다."
+  "version": "1.0.50",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.50/CheckNote.exe",
+  "sha256": "79C322010D57DDB595E370863F051B471C7C1CA05A54CB4F1CAB7F7D0E80E1AF",
+  "size": 50457043,
+  "notes": "우측 하단 휴지통을 한 번 클릭하면 열리도록 변경했습니다. 이미 열려 있으면 해당 창을 앞으로 가져옵니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
 }
