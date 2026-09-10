@@ -1,7 +1,7 @@
 {
-  "version": "1.0.47",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.47/CheckNote.exe",
-  "sha256": "918E2693B514A6A86AA59126AEC8DEB293EF5DD2C1346AF49675677E4BCB1457",
-  "size": 50452102,
-  "notes": "모든 할 일을 완료하면 제목 옆에 휴지통 버튼이 나타납니다. 완료 전이나 일반 메모는 ⋮ → 휴지통으로 이동에서 보낼 수 있습니다. 입력 중인 내용과 체크 상태를 보존하며 휴지통에서 복원할 수 있습니다. 반복 할 일 실험 기능은 포함하지 않았습니다."
+  "version": "1.0.48",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.48/CheckNote.exe",
+  "sha256": "0C5A491D24A1CB5D5386A03EC95C46B68EFC8981F2C0863381C12FE3A0B9FDC8",
+  "size": 50454364,
+  "notes": "독립 바탕화면 메모에서 Ctrl + 마우스 휠로 40~100% 확대·축소할 수 있습니다. 처음 분리하면 메모판에서 보던 배율과 표시 크기를 이어받고, 이후 조절한 배율과 위치는 각 메모별로 이 PC에 기억합니다. 글자·체크박스·버튼이 함께 확대·축소되며 다른 메모와 메모판의 배율에는 영향을 주지 않습니다."
 }
