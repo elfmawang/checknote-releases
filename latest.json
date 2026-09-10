@@ -1,7 +1,7 @@
 {
-  "version": "1.0.46",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.46/CheckNote.exe",
-  "sha256": "F2C3888433506B59E52F8B2BC363E73200C0043FBDB35E6C0EF31A0FA86AC879",
-  "size": 50451732,
-  "notes": "체크박스 네모와 내부 체크 표시를 1px 아래로 조정해 체크항목 글자의 세로 중심과 자연스럽게 맞췄습니다. 클릭 영역과 행 간격은 그대로 유지됩니다."
+  "version": "1.0.47",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.47/CheckNote.exe",
+  "sha256": "918E2693B514A6A86AA59126AEC8DEB293EF5DD2C1346AF49675677E4BCB1457",
+  "size": 50452102,
+  "notes": "모든 할 일을 완료하면 제목 옆에 휴지통 버튼이 나타납니다. 완료 전이나 일반 메모는 ⋮ → 휴지통으로 이동에서 보낼 수 있습니다. 입력 중인 내용과 체크 상태를 보존하며 휴지통에서 복원할 수 있습니다. 반복 할 일 실험 기능은 포함하지 않았습니다."
 }
