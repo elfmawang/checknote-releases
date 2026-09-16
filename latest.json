@@ -1,7 +1,7 @@
 {
-  "version": "1.0.50",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.50/CheckNote.exe",
-  "sha256": "79C322010D57DDB595E370863F051B471C7C1CA05A54CB4F1CAB7F7D0E80E1AF",
-  "size": 50457043,
-  "notes": "우측 하단 휴지통을 한 번 클릭하면 열리도록 변경했습니다. 이미 열려 있으면 해당 창을 앞으로 가져옵니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
+  "version": "1.0.51",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.0.51/CheckNote.exe",
+  "sha256": "859765A1FFBACD6833CD69713E1AE0303A45F6CC9B66A056D50F793D047E5308",
+  "size": 50456199,
+  "notes": "체크항목의 글자가 체크박스보다 아래쪽으로 보이던 정렬을 수정했습니다. 글자 위치를 2px 위로 조정하고 글자·체크박스 크기와 줄 간격은 유지합니다. 완료 항목과 입력 중인 줄에도 동일하게 적용됩니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
 }
