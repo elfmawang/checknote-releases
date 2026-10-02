@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.1.0/CheckNote.exe",
-  "sha256": "6D6BA31AC3ACCC68B48BBDCB6700EC58EB3F81079494FD6A9E74236E2EAED29A",
-  "size": 50457269,
-  "notes": "폴더 삭제 시 안의 완료·미완료·일반 메모도 모두 휴지통으로 이동하도록 변경했습니다. 확인창에 대상 개수를 표시하며 독립 데스크톱 메모창도 함께 닫습니다. 입력 중인 내용은 보존하고 다른 폴더의 메모는 유지합니다. 휴지통에서 복원하면 기본 폴더로 돌아오며, 기존 휴지통 메모의 삭제 시한은 연장하지 않습니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
+  "version": "1.1.1",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.1.1/CheckNote.exe",
+  "sha256": "DAE3BC49D68D48BEDA394DCB8F983DB2547C42D48F3E9807D80F675E9486E705",
+  "size": 50456433,
+  "notes": "설정의 기본 폴더 표시에서 완료된 메모 표시 옵션을 제거했습니다. 예전 숨김 설정도 더 이상 적용하지 않아 기본 폴더에서 완료 메모가 보입니다. 다른 폴더 메모 표시 선택, 검색의 완료 포함, 메모 내부 완료 항목의 취소선·숨김 설정은 유지합니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
 }
