@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.1.1/CheckNote.exe",
-  "sha256": "DAE3BC49D68D48BEDA394DCB8F983DB2547C42D48F3E9807D80F675E9486E705",
-  "size": 50456433,
-  "notes": "설정의 기본 폴더 표시에서 완료된 메모 표시 옵션을 제거했습니다. 예전 숨김 설정도 더 이상 적용하지 않아 기본 폴더에서 완료 메모가 보입니다. 다른 폴더 메모 표시 선택, 검색의 완료 포함, 메모 내부 완료 항목의 취소선·숨김 설정은 유지합니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
+  "version": "1.2.0",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.2.0/CheckNote.exe",
+  "sha256": "1598EDE326677B6F316C12D0FCD6F4C97795A58641ABA13AA83B78E25C141945",
+  "size": 50458277,
+  "notes": "삭제할 수 없는 고정 보관 폴더를 추가했습니다. 보관 메모는 기본 화면과 다른 폴더의 검색·미완료 목록에서 숨기고, 보관 폴더를 열었을 때만 표시합니다. 기존 보관 폴더의 내용은 유지하며, 다른 컴퓨터에서도 같은 보관 폴더로 동기화됩니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
 }
