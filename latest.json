@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.2.0/CheckNote.exe",
-  "sha256": "1598EDE326677B6F316C12D0FCD6F4C97795A58641ABA13AA83B78E25C141945",
-  "size": 50458277,
-  "notes": "삭제할 수 없는 고정 보관 폴더를 추가했습니다. 보관 메모는 기본 화면과 다른 폴더의 검색·미완료 목록에서 숨기고, 보관 폴더를 열었을 때만 표시합니다. 기존 보관 폴더의 내용은 유지하며, 다른 컴퓨터에서도 같은 보관 폴더로 동기화됩니다. 할일 자동생성 실험 기능은 포함하지 않습니다."
+  "version": "1.2.1",
+  "download_url": "https://github.com/elfmawang/checknote-releases/releases/download/v1.2.1/CheckNote.exe",
+  "sha256": "882A74CA57E2AF44FCE4DA2605EFF0229FAD2E12AB7CC28309092E1A40575BD2",
+  "size": 50458710,
+  "notes": "안드로이드 등 다른 기기에서 휴지통으로 보낸 메모가 데스크톱 화면에 남던 문제를 수정했습니다. 입력 중인 다른 메모와 커서를 유지하면서 삭제된 카드·독립 메모창, 휴지통 개수와 열린 목록을 즉시 갱신합니다. 동기화 직후 오래된 화면 내용이 새 내용을 덮어쓰지 않도록 보완했습니다."
 }
